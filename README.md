@@ -5,8 +5,8 @@
 1.2 Feature of Python </br>
 1.3 How to Install Python </br>
 
-## 02. Basic of Python 
-2.1 Write first program using print </br>
-2.2 How to install packages using  Pip? </br>
-2.3 How to use modules in python? </br>
-2.4 How to write comments in Python? </br>
+## 02. Basics of Python 
+2.1 Writing Your First Program Using print </br>
+2.2 How to Install Packages Using pip </br>
+2.3 How to Use Modules in Python </br>
+2.4 How to Write Comments in Python </br>
