@@ -14,6 +14,6 @@
 ## 03. Variables, Datatype, Operations
 3.1 How a define a  variables </br>
 3.2 Datatypes like `int`, `float`, `str`, `bool`, </br>
-3.3 Operations like `Arithematic, `Assginemnt`, `Comparison`, `Logical` </br>
+3.3 Operations like `Arithematic`, `Assginemnt`, `Comparison`, `Logical` </br>
 3.4 Typecasting </br>
 3.5 Input Funcation </br>
