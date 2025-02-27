@@ -12,7 +12,7 @@
 2.4 How to Write Comments in Python </br>
 
 ## 03. Variables, Datatype, Operations
-3.1 How a define a  variables </br>
+3.1 How a Define a  Variables </br>
 3.2 Datatypes like `int`, `float`, `str`, `bool` </br>
 3.3 Operations like `Arithematic`, `Assginemnt`, `Comparison`, `Logical` </br>
 3.4 Typecasting </br>
