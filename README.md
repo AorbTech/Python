@@ -17,3 +17,12 @@
 3.3 Operations like `Arithematic`, `Assginemnt`, `Comparison`, `Logical` </br>
 3.4 Typecasting </br>
 3.5 Input Funcation </br>
+
+## 04. Strings
+4.1 Syntax </br>
+4.2 Concatenation </br>
+4.3 Slicing </br>
+4.4 Functions </br>
+4.5 Special characters </br>
+4.6 Raw strings </br>
+4.7 String interpolation </br>
