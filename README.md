@@ -26,3 +26,14 @@
 4.5 Special characters </br>
 4.6 Raw strings </br>
 4.7 String interpolation </br>
+
+## 05. Lists and Tuples
+5.1 Create list </br>
+5.2 List Indexing </br>
+5.3 List Slicing </br>
+5.4 Change Item in List </br>
+5.5 List Methods </br>
+5.6 Create Tuple </br>
+5.2 Tuple Indexing </br>
+5.3 Tuple Slicing </br>
+5.5 Tuple Methods </br>
