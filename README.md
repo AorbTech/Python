@@ -39,8 +39,8 @@
 5.5 Tuple Methods </br>
 
 ## 06. Dictionaries and Sets
-6.1 Creating Dictionaries
-6.2 Accessing Dictionaries
-6.3 Dictionary Methods
-6.4 Creating Sets
-6.5 Set Methods
+6.1 Creating Dictionaries </br>
+6.2 Accessing Dictionaries </br>
+6.3 Dictionary Methods </br>
+6.4 Creating Sets </br>
+6.5 Set Methods </br>
