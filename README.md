@@ -37,3 +37,10 @@
 5.2 Tuple Indexing </br>
 5.3 Tuple Slicing </br>
 5.5 Tuple Methods </br>
+
+## 06. Dictionaries and Sets
+6.1 Creating Dictionaries
+6.2 Accessing Dictionaries
+6.3 Dictionary Methods
+6.4 Creating Sets
+6.5 Set Methods
