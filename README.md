@@ -44,3 +44,10 @@
 6.3 Dictionary Methods </br>
 6.4 Creating Sets </br>
 6.5 Set Methods </br>
+
+## 07. Conditional Statement
+7.1 if else statement </br>
+7.2 elif statement </br>
+7.3 Nested if else  </br>
+7.4 Multiple if statement </br>
+7.5 Switch Case </br>
