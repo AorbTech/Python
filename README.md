@@ -51,3 +51,44 @@
 7.3 Nested if else  </br>
 7.4 Multiple if statement </br>
 7.5 Switch Case </br>
+
+## 08. Loops
+8.1 While Loops </br>
+8.2 For Loops </br>
+8.3 The Range Function </br>
+8.4 Jump Statement </br>
+8.5 List Comprehension </br>
+
+## 09. Functions and Recursions
+9.1 Functions </br>
+9.2 Recurcisions </br>
+
+## 10. File INPUT/OUPUT
+10.1 File types </br>
+10.2 Opening files </br>
+10.3 Reading files </br>
+10.4 Modes and Writing to files </br>
+10.5 `With` statement </br>
+
+## 11. Object Oriented Programming I
+11.1 Class </br>
+11.2 Object </br>
+11.3 Class Attributes </br>
+11.4 Instance Attributes </br>
+11.5 Self Parameter </br>
+11.6 Static Method </br>
+11.7 Constructor </br>
+
+## 12. Object Oriented Programming II
+12.1 Inheritance </br>
+12.2 Overriding </br>
+12.3 Types of Inheritance </br>
+12.4 Super Method </br>
+12.5 Property decorators </br>
+12.6 Operator overloading </br>
+12.7 Dunder/Magic methods </br>
+
+**©Aorb Tech**
+
+
+
